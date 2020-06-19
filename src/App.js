@@ -3,6 +3,7 @@ import './App.css';
 import Clock from './components/clock/Clock';
 import ting from './components/sounds/ting.wav';
 import ResetButton from './components/resetButton/resetButton';
+import StartButton from './components/startButton/startButton';
 
 
 class App extends React.Component{
@@ -59,7 +60,7 @@ class App extends React.Component{
       <div>
       <Clock timer = {this.state.timer}/>
       <div className = 'tc'>
-      <button onClick = {this.startPause}>Start</button>
+      <StartButton isActive = {this.state.isActive} onStart = {this.startPause}/>
       <ResetButton onReset = {this.reset}/>
       </div>
       </div>
