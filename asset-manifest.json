@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/timer/static/css/main.8658571f.chunk.css",
-    "main.js": "/timer/static/js/main.23ac43a0.chunk.js",
-    "main.js.map": "/timer/static/js/main.23ac43a0.chunk.js.map",
-    "runtime-main.js": "/timer/static/js/runtime-main.7b2887db.js",
-    "runtime-main.js.map": "/timer/static/js/runtime-main.7b2887db.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/timer/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.c9849f50.chunk.js": "/timer/static/js/2.c9849f50.chunk.js",
-    "static/js/2.c9849f50.chunk.js.map": "/timer/static/js/2.c9849f50.chunk.js.map",
-    "index.html": "/timer/index.html",
-    "precache-manifest.355911146ac6f2a8baf5fd8f2f546127.js": "/timer/precache-manifest.355911146ac6f2a8baf5fd8f2f546127.js",
-    "service-worker.js": "/timer/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/timer/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.8658571f.chunk.css.map": "/timer/static/css/main.8658571f.chunk.css.map",
-    "static/js/2.c9849f50.chunk.js.LICENSE.txt": "/timer/static/js/2.c9849f50.chunk.js.LICENSE.txt",
-    "static/media/ting.wav": "/timer/static/media/ting.2ed3ed02.wav"
+    "main.css": "/AnotherTimer/static/css/main.8658571f.chunk.css",
+    "main.js": "/AnotherTimer/static/js/main.c90c2f84.chunk.js",
+    "main.js.map": "/AnotherTimer/static/js/main.c90c2f84.chunk.js.map",
+    "runtime-main.js": "/AnotherTimer/static/js/runtime-main.034b0dde.js",
+    "runtime-main.js.map": "/AnotherTimer/static/js/runtime-main.034b0dde.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/AnotherTimer/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c9849f50.chunk.js": "/AnotherTimer/static/js/2.c9849f50.chunk.js",
+    "static/js/2.c9849f50.chunk.js.map": "/AnotherTimer/static/js/2.c9849f50.chunk.js.map",
+    "index.html": "/AnotherTimer/index.html",
+    "precache-manifest.c2c7fdebb31982eb4b8e9c901c522c4a.js": "/AnotherTimer/precache-manifest.c2c7fdebb31982eb4b8e9c901c522c4a.js",
+    "service-worker.js": "/AnotherTimer/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/AnotherTimer/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.8658571f.chunk.css.map": "/AnotherTimer/static/css/main.8658571f.chunk.css.map",
+    "static/js/2.c9849f50.chunk.js.LICENSE.txt": "/AnotherTimer/static/js/2.c9849f50.chunk.js.LICENSE.txt",
+    "static/media/ting.wav": "/AnotherTimer/static/media/ting.2ed3ed02.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b2887db.js",
+    "static/js/runtime-main.034b0dde.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.c9849f50.chunk.js",
     "static/css/main.8658571f.chunk.css",
-    "static/js/main.23ac43a0.chunk.js"
+    "static/js/main.c90c2f84.chunk.js"
   ]
 }
