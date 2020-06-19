@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnotherTimer/static/css/main.8658571f.chunk.css",
-    "main.js": "/AnotherTimer/static/js/main.c90c2f84.chunk.js",
-    "main.js.map": "/AnotherTimer/static/js/main.c90c2f84.chunk.js.map",
+    "main.js": "/AnotherTimer/static/js/main.4af73a5c.chunk.js",
+    "main.js.map": "/AnotherTimer/static/js/main.4af73a5c.chunk.js.map",
     "runtime-main.js": "/AnotherTimer/static/js/runtime-main.034b0dde.js",
     "runtime-main.js.map": "/AnotherTimer/static/js/runtime-main.034b0dde.js.map",
     "static/css/2.3c03f26f.chunk.css": "/AnotherTimer/static/css/2.3c03f26f.chunk.css",
     "static/js/2.c9849f50.chunk.js": "/AnotherTimer/static/js/2.c9849f50.chunk.js",
     "static/js/2.c9849f50.chunk.js.map": "/AnotherTimer/static/js/2.c9849f50.chunk.js.map",
     "index.html": "/AnotherTimer/index.html",
-    "precache-manifest.c2c7fdebb31982eb4b8e9c901c522c4a.js": "/AnotherTimer/precache-manifest.c2c7fdebb31982eb4b8e9c901c522c4a.js",
+    "precache-manifest.6bc4990d79f9714b8ebce56116cdb89e.js": "/AnotherTimer/precache-manifest.6bc4990d79f9714b8ebce56116cdb89e.js",
     "service-worker.js": "/AnotherTimer/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/AnotherTimer/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.8658571f.chunk.css.map": "/AnotherTimer/static/css/main.8658571f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.c9849f50.chunk.js",
     "static/css/main.8658571f.chunk.css",
-    "static/js/main.c90c2f84.chunk.js"
+    "static/js/main.4af73a5c.chunk.js"
   ]
 }
