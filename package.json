@@ -1,5 +1,6 @@
 {
   "name": "timer",
+  "homepage": "https://vp24.github.io/Timer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
