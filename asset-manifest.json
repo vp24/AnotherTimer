@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8658571f.chunk.css",
+    "main.js": "/static/js/main.41bd7290.chunk.js",
+    "main.js.map": "/static/js/main.41bd7290.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f7132dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f7132dd.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c9849f50.chunk.js": "/static/js/2.c9849f50.chunk.js",
+    "static/js/2.c9849f50.chunk.js.map": "/static/js/2.c9849f50.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0a25276e21aedf3d14f372a3a039e05d.js": "/precache-manifest.0a25276e21aedf3d14f372a3a039e05d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.8658571f.chunk.css.map": "/static/css/main.8658571f.chunk.css.map",
+    "static/js/2.c9849f50.chunk.js.LICENSE.txt": "/static/js/2.c9849f50.chunk.js.LICENSE.txt",
+    "static/media/ting.wav": "/static/media/ting.2ed3ed02.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f7132dd.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c9849f50.chunk.js",
+    "static/css/main.8658571f.chunk.css",
+    "static/js/main.41bd7290.chunk.js"
+  ]
+}
